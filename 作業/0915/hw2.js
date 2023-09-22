@@ -66,11 +66,11 @@ router
         </html>`
    })
 
-  .get("to/ngu", (ctx) => {
+  .get("/to/ngu", (ctx) => {
     ctx.response.redirect('https://www.nqu.edu.tw/');
    })
 
-  .get("to/ngu/csie", (ctx) => { 
+  .get("/to/ngu/csie", (ctx) => { 
     ctx.response.redirect('https://csie.nqu.edu.tw/');
    });
 
