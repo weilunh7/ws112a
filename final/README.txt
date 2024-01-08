@@ -5,3 +5,5 @@
 3.透過網頁按鈕控制伺服馬達
 參考資料:
 https://medium.com/@steel540/python-flask-rtsp-to-monitor-ipcam-for-tp-link-tapo-ea47af0fd729
+DEMO連結:
+https://youtu.be/xidlOdad6ec
